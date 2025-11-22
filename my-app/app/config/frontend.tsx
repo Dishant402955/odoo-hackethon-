@@ -70,7 +70,6 @@ export const SuperTokensConfig = {
 				}),
 			},
 		}),
-		,
 	],
 
 	getRedirectionURL: async (context: any) => {
